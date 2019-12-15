@@ -1,3 +1,2 @@
 This is log file
 This is second log line
-hello
